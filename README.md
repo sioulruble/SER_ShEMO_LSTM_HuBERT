@@ -4,7 +4,7 @@ This project implements a Speech Emotion Recognition (SER) system developed at t
 
 The architecture leverages HuBERT, a pre-trained Transformer model for feature extraction, combined with LSTM layers for temporal modeling and fully connected layers for classification. This pipeline captures long-range dependencies in audio signals and incorporates dropout and pooling to improve robustness.
 
-![SER Architecture](figures/ser_architecture.jpeg)
+<img src="figures/ser_architecture.jpeg" alt="SER Architecture" width="400">
 
 ### Results
 The system achieved 94% precision on binary classification (Angry vs. Neutral) after 10 epochs. These results highlight its potential for applications in virtual assistants, mental health monitoring, and call center analytics.
