@@ -1,6 +1,6 @@
 # Speech Emotion Recognition (SER)
 
-This project implements a Speech Emotion Recognition (SER) system developed at the Universidad de Zaragoza. The model classifies emotional states from voice signals and was trained on the ShEMO dataset, comprising 3,000 audio samples from 87 native Persian speakers.
+This project implements a Speech Emotion Recognition (SER). The model classifies emotional states from voice signals and was trained on the ShEMO dataset, comprising 3,000 audio samples from 87 native Persian speakers.
 
 The architecture leverages HuBERT, a pre-trained Transformer model for feature extraction, combined with LSTM layers for temporal modeling and fully connected layers for classification. This pipeline captures long-range dependencies in audio signals and incorporates dropout and pooling to improve robustness.
 
