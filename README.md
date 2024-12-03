@@ -7,8 +7,7 @@ The architecture leverages HuBERT, a pre-trained Transformer model for feature e
 <img src="figures/ser_architecture.jpeg" alt="SER Architecture" width="650">
 
 ### Results
-The system achieved 94% precision on binary classification (Angry vs. Neutral) after 10 epochs. These results highlight its potential for applications in virtual assistants, mental health monitoring, and call center analytics.
-
+The system achieved 94% precision on binary classification (Angry vs. Neutral) after 10 epochs. These results highlight its potential for future applications.
 **Future Work**  
 - Multi-class classification.  
 - Advanced architectures like attention-based models or Bi-LSTMs.
